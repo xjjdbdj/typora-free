@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<!-- saved from url=(0052)file:///D:/Users/32321/Downloads/Welcome%20file.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome file</title>
+  <link rel="stylesheet" href="./Welcome file_files/style.css">
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__html"><h2 id="李一兵">李一兵</h2>
+<blockquote>
+<p>引用<br>
+上课：<br>
+1.起床<br>
+2.睡觉</p>
+</blockquote>
+<ul>
+<li>行</li>
+<li>不行<br>
+明天要做的事：</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled=""> 吃饭</li>
+<li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" checked="true" disabled="">  睡觉</li>
+</ul>
+<p>代码块：</p>
+<pre class=" language-c"><code class="prism  language-c"><span class="token keyword">int</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+<span class="token keyword">return</span> <span class="token number">0</span><span class="token punctuation">;</span>
+<span class="token punctuation">}</span>
+</code></pre>
+<p>数学公式:<br>
+<span class="katex--display"><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mn>1</mn><mo>+</mo><mn>1</mn><mo>=</mo><mn>2</mn></mrow><annotation encoding="application/x-tex">
+1+1=2
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.72777em; vertical-align: -0.08333em;"></span><span class="mord">1</span><span class="mspace" style="margin-right: 0.222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right: 0.222222em;"></span></span><span class="base"><span class="strut" style="height: 0.64444em; vertical-align: 0em;"></span><span class="mord">1</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 0.64444em; vertical-align: 0em;"></span><span class="mord">2</span></span></span></span></span></span></p>
+<p>表格:<br>
+| 姓名 | 年龄 |<br>
+|: --|-- :|<br>
+| 李一兵 | 19 |</p>
+<h2 id="解释行">解释:<br>
+行<sup class="footnote-ref"><a href="file:///D:/Users/32321/Downloads/Welcome%20file.html#fn1" id="fnref1">1</a></sup></h2>
+<p>哈哈哈</p>
+<p><a href="file:///D:/Users/32321/Downloads/qq.com%22%E4%B8%80%E4%B8%AA%E8%81%8A%E5%A4%A9%E8%BD%AF%E4%BB%B6%22">QQ</a></p>
+<p><a href="file:///D:/Users/32321/Downloads/Welcome%20file.html#%E6%9D%8E%E4%B8%80%E5%85%B5">李一兵</a></p>
+<p>ULR:<br>
+<a href="http://www.baidu.com/">http://www.baidu.com</a></p>
+<p><strong>行</strong></p>
+<p><em>行</em><br>
+😄</p>
+<p>H<sub>2</sub>O</p>
+<p><mark>行</mark></p>
+<p>【凡人修仙传：第91话 星海飞驰15】 <a href="https://www.bilibili.com/bangumi/play/ep785530/?share_source=copy_web">https://www.bilibili.com/bangumi/play/ep785530/?share_source=copy_web</a></p>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>不行 <a href="file:///D:/Users/32321/Downloads/Welcome%20file.html#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+</div>
+
+
+
+</body></html>
